@@ -1,3 +1,3 @@
 # Proyecto de ejemplo
 
-¡Hola desde rama A!
+¡Hola desde rama B!
